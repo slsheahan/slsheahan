@@ -5,6 +5,12 @@
  * This bot's primary function is to create a wordle on demand.
  * The wordle can be between 3 and 7 letters long, inclusive.
  * 
+ * ************************************
+ * Resources used:
+ * https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/
+ *	- Used for initializing the Discord bot and logger,
+ *	  as well as turning the bot on.
+ * 
  * */
 var lineReader = require('line-reader');
 
@@ -66,21 +72,6 @@ if (message.substring(0, 1) == '!') {
     args = args.splice(1);
 
 	switch (cmd) {
-
-		// !ping
-
-		case 'ping':
-
-			bot.sendMessage({
-
-				to: channelID,
-
-				message: 'Pong!'
-
-			});
-
-			break;
-
 		// Wordle
 		case 'wordle':
 			switch (param) {
