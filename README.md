@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @slsheahan
-- 👀 I’m interested in ... transitioning my knowledge from classes to software
-- 🌱 I’m currently learning ... how to make simple games in Unity 2D
+- 👀 I’m interested in ... developing into a well-rounded developer
+- 🌱 I’m currently learning ... SQL and server-side development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  ... slsheahan@wisc.edu
+- 📫 How to reach me  ... spencersheahan1@gmail.com
 
 <!---
 slsheahan/slsheahan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
