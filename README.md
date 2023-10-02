@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slsheahan
-- 👀 I’m interested in ... developing into a well-rounded developer
+- 👀 I’m interested in ... becoming a well-rounded developer
 - 🌱 I’m currently learning ... SQL and server-side development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  ... spencersheahan1@gmail.com
